@@ -1,5 +1,10 @@
 body {
     background-image: url('Documents/Coursework/grocerylist/foodlist.png');
+    
+}
+#site-heading {
+    text-align: center;
+    color: darkcyan;
 }
 h1 {
     color: #f70404;
